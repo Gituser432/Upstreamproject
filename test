@@ -2,3 +2,4 @@ i have created this file t test pull request
 modified jenkins job configuration
 changed $({SHA1} to ${ghprbActualCommit}
 changed ip to jenkins public IP
+changed public Ip to static IP
